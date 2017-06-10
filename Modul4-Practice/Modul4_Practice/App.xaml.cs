@@ -13,8 +13,9 @@ namespace Modul4_Practice
 		{
 			InitializeComponent();
 
-			//MainPage = new Modul4_Practice.MainPage();
-            MainPage = new NavigationPage(new NavigationPage1());
+            //MainPage = new Modul4_Practice.MainPage();
+            //MainPage = new NavigationPage(new NavigationPage1());
+            MainPage = new DropdownMenu();
         }
 
 		protected override void OnStart ()
