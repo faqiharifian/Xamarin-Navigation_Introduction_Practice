@@ -13,6 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul4_Practice.UWP", "Modu
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Modul4-Practice\Modul4_Practice\Modul4_Practice.projitems*{58af9497-baeb-4771-b989-fa6b83e26457}*SharedItemsImports = 4
 		Modul4-Practice\Modul4_Practice\Modul4_Practice.projitems*{61bae919-d4d7-46eb-a057-00333233e523}*SharedItemsImports = 4
 		Modul4-Practice\Modul4_Practice\Modul4_Practice.projitems*{9d3d45c1-9229-4fa4-90fc-8074ca0a4b35}*SharedItemsImports = 13
 		Modul4-Practice\Modul4_Practice\Modul4_Practice.projitems*{cbc3f585-7a1e-45f7-aa0d-c14083edaab8}*SharedItemsImports = 4
@@ -81,8 +82,6 @@ Global
 		{61BAE919-D4D7-46EB-A057-00333233E523}.AppStore|x86.Build.0 = Release|Any CPU
 		{61BAE919-D4D7-46EB-A057-00333233E523}.AppStore|x86.Deploy.0 = Release|Any CPU
 		{61BAE919-D4D7-46EB-A057-00333233E523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61BAE919-D4D7-46EB-A057-00333233E523}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61BAE919-D4D7-46EB-A057-00333233E523}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{61BAE919-D4D7-46EB-A057-00333233E523}.Debug|ARM.ActiveCfg = Debug|Any CPU
 		{61BAE919-D4D7-46EB-A057-00333233E523}.Debug|ARM.Build.0 = Debug|Any CPU
 		{61BAE919-D4D7-46EB-A057-00333233E523}.Debug|ARM.Deploy.0 = Debug|Any CPU
